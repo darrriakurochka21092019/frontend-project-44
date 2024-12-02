@@ -75,3 +75,28 @@ Question: 5 7 9 11 13 .. 17 19 21 23
 Your answer: 1
 '1' is wrong answer ;(. Correct answer was '15'.)
 Let's try again, Sam!
+
+## Игра "Простое ли число?"
+
+Чтобы запустить игру, выполните команду:
+
+bash
+npx brain-prime
+
+
+### Пример игрового процесса:
+
+Welcome to the Brain Games!
+May I have your name? Sam
+Hello, Sam!
+Answer "yes" if given number is prime. Otherwise answer "no".
+Question: 7
+Your answer: yes
+Correct!
+Question: 9
+Your answer: no
+Correct!
+Question: 15
+Your answer: yes
+'yes' is wrong answer ;(. Correct answer was 'no'.)
+Let's try again, Sam!
